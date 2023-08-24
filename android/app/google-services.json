@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "796621896560",
+    "project_id": "letzmeet-1775b",
+    "storage_bucket": "letzmeet-1775b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796621896560:android:251af0aa018869e3456db5",
+        "android_client_info": {
+          "package_name": "com.example.letzmeet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "796621896560-jscjp516j52v6ncjs7ad8vfsdltfnt2e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.letzmeet",
+            "certificate_hash": "ecba31d58a5b792c927c2bee58b8e61f67888490"
+          }
+        },
+        {
+          "client_id": "796621896560-bnu36ihulv5d148vk5gc9spf9mlko5sf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyZS421k7RYy1HDCMb96R6UrSTklz1-mE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "796621896560-bnu36ihulv5d148vk5gc9spf9mlko5sf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
